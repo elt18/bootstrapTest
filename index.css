@@ -1,0 +1,14 @@
+.kotak{
+  border: 2px solid black;
+  display: inline-block;
+}
+
+.parent{
+  text-align: center;
+  width: 80%;
+  margin: auto;
+}
+
+.anak-kotak{
+  display: inline-block;
+}
